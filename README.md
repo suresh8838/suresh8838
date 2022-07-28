@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Suresh Selvam
-- 👀 I’m interested in Cybersecurity
+- 👀 I’m interested in Cloud Computing and Cybersecurity
 - 🌱 I’m currently Studying,B.Tech CSE
 - 💞️ I’m looking to collaborate in Team Projects
 - 📫 Reach me via Sureshselvam8838@gmail.com
